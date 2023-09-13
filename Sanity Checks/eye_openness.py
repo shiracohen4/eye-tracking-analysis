@@ -1,21 +1,3 @@
-# import pandas as pd
-# import matplotlib.pyplot as plt
-#
-# # Read the CSV file into a DataFrame
-# df = pd.read_csv('eye_openness_data.csv')
-#
-# # Remove the lines containing 'NEW SCENE'
-# df = df[pd.notna(df['Frame'])]
-#
-# # Plotting the data
-# plt.scatter(df['Frame'], df['Left Eye openness'], c='blue', label='Left Eye')
-# plt.scatter(df['Frame'], df['Right Eye Openness'], c='red', label='Right Eye')
-# plt.xlabel('Frame')
-# plt.ylabel('Eye Openness')
-# plt.title('Eye Openness Comparison')
-# plt.legend()
-# plt.show()
-
 # scatter plot
 import pandas as pd
 import matplotlib.pyplot as plt
