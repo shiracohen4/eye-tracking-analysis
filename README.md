@@ -4,6 +4,7 @@ The graphs show the correlation between the two eyes, in those parameters: eye o
 We expect to get a high correlation, since it would indicate the eye tracking component is working well. The R value that is added to the graph helps to evaluate the correlation.
 
 The file camera_pos.cs is the file from the original experiment we had to modify in order to get the eye tracking output from each participant.
+The code segments we added are clearly marked with comments.
 
 ### Instructions
 1. Name the output file "data.csv".
