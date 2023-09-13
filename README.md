@@ -8,5 +8,6 @@ The file camera_pos.cs is the file from the original experiment we had to modify
 ### Instructions
 1. Name the output file "data.csv".
 2. Make sure all of the files in this folder are in the same directory as data.csv.
-3. Run prepare_data.py. This will create the necessary files for creating the graphs.
-4. Run eye_openness.py, pupil_diameter.py, pupil_position_y.py. This will create the graphs for each of the parameters.
+3. Run change_header.py.
+4. Run prepare_data.py. This will create the necessary files for creating the graphs.
+5. Run eye_openness.py, pupil_diameter.py, pupil_position_y.py. This will create the graphs for each of the parameters.
