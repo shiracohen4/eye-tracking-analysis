@@ -1,6 +1,6 @@
 import csv
 
-data_file = 'data.csv'
+data_file = 'check.csv'
 data2_file = 'data2.csv'
 eye_openness_file = 'eye_openness_data.csv'
 pupil_diameter_file = 'pupil_diameter_data.csv'
