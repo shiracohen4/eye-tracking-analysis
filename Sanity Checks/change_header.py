@@ -1,7 +1,7 @@
 import csv
 
 # Input file name
-input_file = "data.csv"
+input_file = "check.csv"
 
 # Define the new header line
 new_header = [
